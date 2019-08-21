@@ -2,6 +2,34 @@
 
 Some articles by the flipradio anchor --- **Li HouChen**
 
+----
+
+### **看理想**
+
+[vistopia/我们与恶的距离，不是单靠死刑就可以隔开.md](vistopia/我们与恶的距离，不是单靠死刑就可以隔开.md)
+
+[vistopia/恋爱，对现在的年轻人来说到底有多「麻烦」？.md](vistopia/恋爱，对现在的年轻人来说到底有多「麻烦」？.md)
+
+[vistopia/随处可见的人脸识别，意味着什么？.md](vistopia/随处可见的人脸识别，意味着什么？.md)
+
+[vistopia/16岁少女因网友投票而死：「让他人决定」背后的恐惧.md](vistopia/16岁少女因网友投票而死：「让他人决定」背后的恐惧.md)
+
+[**vistopia/我无法再享乐地身处这个时代.md**](vistopia/我无法再享乐地身处这个时代.md)
+
+[vistopia/公司总谈「使命」，但使命只是安慰剂.md](vistopia/公司总谈「使命」，但使命只是安慰剂.md)
+
+[vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md](vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md)
+
+[vistopia/为什么我不想为“科技进步”拍手叫好？.md](vistopia/为什么我不想为"科技进步"拍手叫好？.md)
+
+[vistopia/外卖与996，城市的代价.md](vistopia/外卖与996，城市的代价.md)
+
+[vistopia/《寄生虫》的成功，是现实主义电影的没落.md](vistopia/《寄生虫》的成功，是现实主义电影的没落.md)
+
+[vistopia/类型电影，正在杀死好奇心.md](vistopia/类型电影，正在杀死好奇心.md)
+
+----
+
 ### **Studywith**
 
 [Studywith/江歌案“你需要知道”的系列1-6与此案相关的法律与法理.md](./Studywith/江歌案"你需要知道"的系列1-6与此案相关的法律与法理.md)
@@ -54,29 +82,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [Studywith/〖求真意志XVIII〗定居和历史之始-再论人类不平等的起源IX.md](Studywith/〖求真意志XVIII〗定居和历史之始-再论人类不平等的起源IX.md)
 
-### **看理想**
-
-[vistopia/我们与恶的距离，不是单靠死刑就可以隔开.md](vistopia/我们与恶的距离，不是单靠死刑就可以隔开.md)
-
-[vistopia/恋爱，对现在的年轻人来说到底有多「麻烦」？.md](vistopia/恋爱，对现在的年轻人来说到底有多「麻烦」？.md)
-
-[vistopia/随处可见的人脸识别，意味着什么？.md](vistopia/随处可见的人脸识别，意味着什么？.md)
-
-[vistopia/16岁少女因网友投票而死：「让他人决定」背后的恐惧.md](vistopia/16岁少女因网友投票而死：「让他人决定」背后的恐惧.md)
-
-[**vistopia/我无法再享乐地身处这个时代.md**](vistopia/我无法再享乐地身处这个时代.md)
-
-[vistopia/公司总谈「使命」，但使命只是安慰剂.md](vistopia/公司总谈「使命」，但使命只是安慰剂.md)
-
-[vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md](vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md)
-
-[vistopia/为什么我不想为“科技进步”拍手叫好？.md](vistopia/为什么我不想为"科技进步"拍手叫好？.md)
-
-[vistopia/外卖与996，城市的代价.md](vistopia/外卖与996，城市的代价.md)
-
-[vistopia/《寄生虫》的成功，是现实主义电影的没落.md](vistopia/《寄生虫》的成功，是现实主义电影的没落.md)
-
-[vistopia/类型电影，正在杀死好奇心.md](vistopia/类型电影，正在杀死好奇心.md)
+----
 
 ### **Matters**
 
