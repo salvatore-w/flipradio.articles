@@ -4,7 +4,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 ##### Studywith
 
-[Studywith/江歌案 “你需要知道” 的系列 1-6  与此案相关的法律与法理.md](/Studywith/江歌案 "你需要知道" 的系列 1-6  与此案相关的法律与法理.md)
+[Studywith/江歌案 “你需要知道” 的系列 1-6  与此案相关的法律与法理.md](./Studywith/江歌案"你需要知道"的系列1-6与此案相关的法律与法理.md)
 
 [Studywith/江歌案 “你需要知道” 的系列 2-6   个人责任与“平庸之恶”.md](./Studywith/江歌案 "你需要知道" 的系列 2-6   个人责任与"平庸之恶".md)
 
