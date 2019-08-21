@@ -24,7 +24,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [Studywith/〖求真意志III〗书店关闭书店开启（1-3）书店里该卖咖啡服装吗？.md](Studywith/〖求真意志III〗书店关闭书店开启（1-3）书店里该卖咖啡服装吗？.md)
 
-[Studywith/〖求真意志III〗我们居然还在读这些畅销书？｜ 书店关闭书店开启（2-3）.md](Studywith/〖求真意志III〗我们居然还在读这些畅销书？｜ 书店关闭书店开启（2-3）.md)
+[Studywith/〖求真意志III〗我们居然还在读这些畅销书？｜书店关闭书店开启（2-3）.md](Studywith/〖求真意志III〗我们居然还在读这些畅销书？｜书店关闭书店开启（2-3）.md)
 
 [Studywith/〖求真意志V〗书店服用指南-书店关闭书店开启（3-3）.md](Studywith/〖求真意志V〗书店服用指南-书店关闭书店开启（3-3）.md)
 
@@ -68,7 +68,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/公司总谈「使命」，但使命只是安慰剂.md](vistopia/公司总谈「使命」，但使命只是安慰剂.md)
 
-[vistopia/被娱乐的与被道德的 - 从「豆瓣鹅组」谈起.md](vistopia/被娱乐的与被道德的 - 从「豆瓣鹅组」谈起.md)
+[vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md](vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md)
 
 [vistopia/为什么我不想为“科技进步”拍手叫好？.md](vistopia/为什么我不想为"科技进步"拍手叫好？.md)
 
