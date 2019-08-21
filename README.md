@@ -8,7 +8,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [Studywith/江歌案“你需要知道”的系列2-6个人责任与“平庸之恶”.md](./Studywith/江歌案"你需要知道"的系列2-6个人责任与"平庸之恶".md)
 
-[Studywith/江歌案“你需要知道”的系列3-6局面与咪蒙 - 自媒体的挑拨狂欢.md](./Studywith/江歌案"你需要知道"的系列3-6局面与咪蒙 - 自媒体的挑拨狂欢.md)
+[Studywith/江歌案“你需要知道”的系列3-6局面与咪蒙-自媒体的挑拨狂欢.md](Studywith/江歌案"你需要知道"的系列3-6局面与咪蒙-自媒体的挑拨狂欢.md)
 
 [Studywith/江歌案“你需要知道”的系列4-6网络暴力-还有谁能拯救我们？.md](./Studywith/江歌案"你需要知道"的系列4-6网络暴力-还有谁能拯救我们？.md)
 
