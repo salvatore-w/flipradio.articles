@@ -20,7 +20,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md](vistopia/被娱乐的与被道德的-从「豆瓣鹅组」谈起.md)
 
-[vistopia/为什么我不想为“科技进步”拍手叫好？.md](vistopia/为什么我不想为"科技进步"拍手叫好？.md)
+[vistopia/为什么我不想为“科技进步”拍手叫好？.md](vistopia/为什么我不想为-科技进步-拍手叫好？.md)
 
 [vistopia/外卖与996，城市的代价.md](vistopia/外卖与996，城市的代价.md)
 
@@ -32,17 +32,17 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 ### **Studywith**
 
-[Studywith/江歌案“你需要知道”的系列1-6与此案相关的法律与法理.md](./Studywith/江歌案"你需要知道"的系列1-6与此案相关的法律与法理.md)
+[Studywith/江歌案“你需要知道”的系列1-6与此案相关的法律与法理.md](./Studywith/江歌案-你需要知道-的系列1-6与此案相关的法律与法理.md)
 
-[Studywith/江歌案“你需要知道”的系列2-6个人责任与“平庸之恶”.md](./Studywith/江歌案"你需要知道"的系列2-6个人责任与"平庸之恶".md)
+[Studywith/江歌案“你需要知道”的系列2-6个人责任与“平庸之恶”.md](./Studywith/江歌案-你需要知道-的系列2-6个人责任与-平庸之恶-.md)
 
-[Studywith/江歌案“你需要知道”的系列3-6局面与咪蒙-自媒体的挑拨狂欢.md](Studywith/江歌案"你需要知道"的系列3-6局面与咪蒙-自媒体的挑拨狂欢.md)
+[Studywith/江歌案“你需要知道”的系列3-6局面与咪蒙-自媒体的挑拨狂欢.md](Studywith/江歌案-你需要知道-的系列3-6局面与咪蒙-自媒体的挑拨狂欢.md)
 
-[Studywith/江歌案“你需要知道”的系列4-6网络暴力-还有谁能拯救我们？.md](./Studywith/江歌案"你需要知道"的系列4-6网络暴力-还有谁能拯救我们？.md)
+[Studywith/江歌案“你需要知道”的系列4-6网络暴力-还有谁能拯救我们？.md](./Studywith/江歌案-你需要知道-的系列4-6网络暴力-还有谁能拯救我们？.md)
 
-[Studywith/江歌案“你需要知道”的系列5-6宽恕的价值-一个圣母X的自辩.md](Studywith/江歌案"你需要知道"的系列5-6宽恕的价值-一个圣母X的自辩.md)
+[Studywith/江歌案“你需要知道”的系列5-6宽恕的价值-一个圣母X的自辩.md](Studywith/江歌案-你需要知道-的系列5-6宽恕的价值-一个圣母X的自辩.md)
 
-[Studywith/江歌案“你需要知道”的系列6-6死刑的存废-如何脱离报复逻辑.md](Studywith/江歌案"你需要知道"的系列6-6死刑的存废-如何脱离报复逻辑.md)
+[Studywith/江歌案“你需要知道”的系列6-6死刑的存废-如何脱离报复逻辑.md](Studywith/江歌案-你需要知道-的系列6-6死刑的存废-如何脱离报复逻辑.md)
 
 ----
 
@@ -90,7 +90,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [Matters/人格战——香港风波在大陆.md](./Matters/人格战——香港风波在大陆.md)
 
-[Matters/经济决定论的贫困——还原”时代革命“的”时代性“——1.md](Matters/经济决定论的贫困——还原"时代革命"的"时代性"——1.md)
+[Matters/经济决定论的贫困——还原”时代革命“的”时代性“——1.md](Matters/经济决定论的贫困——还原-时代革命-的-时代性-——1.md)
 
 ----
 
@@ -98,7 +98,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [gcores/游戏是艺术吗？是高尚艺术吗？这是个重要问题.md](gcores/游戏是艺术吗？是高尚艺术吗？这是个重要问题.md)
 
-[gcores/关于“游戏评价”电台节目：我对于游戏评论以及游戏理解的一些看法.md](gcores/关于"游戏评价"电台节目：我对于游戏评论以及游戏理解的一些看法.md)
+[gcores/关于“游戏评价”电台节目：我对于游戏评论以及游戏理解的一些看法.md](gcores/关于-游戏评价-电台节目：我对于游戏评论以及游戏理解的一些看法.md)
 
 
 
