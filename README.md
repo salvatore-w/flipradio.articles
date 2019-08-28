@@ -90,7 +90,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [Matters/人格战——香港风波在大陆.md](./Matters/人格战——香港风波在大陆.md)
 
-[Matters/经济决定论的贫困——还原”时代革命“的”时代性“---1.md](./Matters/经济决定论的贫困——还原"时代革命"的"时代性"---1.md)
+[Matters/经济决定论的贫困---还原”时代革命“的”时代性“---1.md](./Matters/经济决定论的贫困---还原"时代革命"的"时代性"---1.md)
 
 ----
 
