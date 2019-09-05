@@ -28,6 +28,8 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/类型电影，正在杀死好奇心.md](vistopia/类型电影，正在杀死好奇心.md)
 
+[vistopia/十部旧电影中的一些新东西.md](vistopia/十部旧电影中的一些新东西.md)
+
 ----
 
 ### **Studywith**
@@ -100,7 +102,11 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [gcores/关于“游戏评价”电台节目：我对于游戏评论以及游戏理解的一些看法.md](gcores/关于-游戏评价-电台节目：我对于游戏评论以及游戏理解的一些看法.md)
 
+----
 
+### 豆瓣
+
+[douban/凝视奥斯威辛后写诗的野蛮.md](douban/凝视奥斯威辛后写诗的野蛮.md)
 
 
 
