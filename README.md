@@ -30,6 +30,12 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/十部旧电影中的一些新东西.md](vistopia/十部旧电影中的一些新东西.md)
 
+[vistopia/同理心：说出一句“恐怕我也会做一样的决定”有多难？.md](vistopia/同理心-说出一句-恐怕我也会做一样的决定-有多难？.md)
+
+[vistopia/我们正在丧失书写和表达的能力.md](vistopia/我们正在丧失书写和表达的能力.md)
+
+[vistopia/我们站在“英雄时代”的末尾，等待平凡人的勇气.md](vistopia/我们站在-英雄时代-的末尾，等待平凡人的勇气 .md)
+
 ----
 
 ### **Studywith**
