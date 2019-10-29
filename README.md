@@ -34,7 +34,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/我们正在丧失书写和表达的能力.md](vistopia/我们正在丧失书写和表达的能力.md)
 
-[vistopia/我们站在“英雄时代”的末尾，等待平凡人的勇气.md](vistopia/我们站在-英雄时代-的末尾，等待平凡人的勇气 .md)
+[vistopia/我们站在“英雄时代”的末尾，等待平凡人的勇气.md](vistopia/我们站在-英雄时代-的末尾，等待平凡人的勇气.md)
 
 ----
 
