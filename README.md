@@ -36,6 +36,10 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/我们站在“英雄时代”的末尾，等待平凡人的勇气.md](vistopia/我们站在-英雄时代-的末尾，等待平凡人的勇气.md)
 
+[vistopia/欢迎来到-信息核爆-后的废土世界.md](vistopia/欢迎来到-信息核爆-后的废土世界.md)
+
+[vistopia/名画还是猫？李诞与黄执中，我们的最后一博.md](vistopia/名画还是猫？李诞与黄执中，我们的最后一博.md)
+
 ----
 
 ### **Studywith**
