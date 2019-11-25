@@ -40,6 +40,8 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/名画还是猫？李诞与黄执中，我们的最后一博.md](vistopia/名画还是猫？李诞与黄执中，我们的最后一博.md)
 
+[vistopia/让我们温和地谈谈"平凡".md](vistopia/让我们温和地谈谈-平凡.md)
+
 ----
 
 ### **Studywith**
