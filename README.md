@@ -42,7 +42,7 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/让我们温和地谈谈"平凡".md](vistopia/让我们温和地谈谈-平凡.md)
 
-[vistopia/当爱情变成人生的解药、彩票和扮演游戏.md](vistopia/当爱情变成人生的解药，彩票和扮演游戏)
+[vistopia/当爱情变成人生的解药、彩票和扮演游戏.md](vistopia/当爱情变成人生的解药，彩票和扮演游戏.md)
 
 ----
 
