@@ -44,6 +44,8 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/当爱情变成人生的解药、彩票和扮演游戏.md](vistopia/当爱情变成人生的解药，彩票和扮演游戏.md)
 
+[vistopia/2020来临之前，我想带你回看2000.md](vistopia/2020来临之前，我想带你回看2000.md)
+
 ----
 
 ### **Studywith**
