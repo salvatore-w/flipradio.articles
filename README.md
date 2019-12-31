@@ -46,6 +46,8 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/2020来临之前，我想带你回看2000.md](vistopia/2020来临之前，我想带你回看2000.md)
 
+[vistopia/“淘碟”的2000年过去了，我很怀念它.md](vistopia/淘碟的2000年过去了，我很怀念它.md)
+
 ----
 
 ### **Studywith**
