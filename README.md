@@ -48,6 +48,10 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/“淘碟”的2000年过去了，我很怀念它.md](vistopia/淘碟的2000年过去了，我很怀念它.md)
 
+[vistopia/只有“财富自由”后，才有资格谈梦想和幸福吗？.md](vistopia/只有-财富自由-后，才有资格谈梦想和幸福吗？.md)
+
+[vistopia/再见，科比 | 恨意、精进与阿喀琉斯式的卓越.md](vistopia/再见-科比-恨意-精进与阿喀琉斯式的卓越.md)
+
 ----
 
 ### **Studywith**
