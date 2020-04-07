@@ -128,6 +128,8 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [Matters/经济决定论的贫困——还原”时代革命“的”时代性“——1.md](Matters/经济决定论的贫困——还原-时代革命-的-时代性-——1.md)
 
+[Matters/经济决定论的贫困 —— 还原” 时代革命 “的” 时代性 “（2）.md](Matters/经济决定论的贫困还原时代革命的时代性2.md)
+
 ----
 
 ### **机核网**
