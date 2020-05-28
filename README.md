@@ -68,6 +68,14 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/“后浪”风波中，被忽视的“公共言谈真诚”.md](vistopia/后浪风波中，被忽视的公共言谈真诚.md)
 
+[vistopia/“爱国”与“攘外先安内”，同胞攻伐何时休战？.md](vistopia/爱国与攘外先安内，同胞攻伐何时休战.md)
+
+[vistopia/“公正”为何成了自私的遮羞布？.md](vistopia/公正为何成了自私的遮羞布.md)
+
+[vistopia/互联网讨论“消失”了吗？.md](vistopia/互联网讨论消失了吗.md)
+
+[vistopia/我们焦虑于证明自己是个好人，为什么反而更糟糕了？.md](vistopia/我们焦虑于证明自己是个好人，为什么反而更糟糕了.md)
+
 ----
 
 ### **Studywith**
