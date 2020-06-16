@@ -76,6 +76,12 @@ Some articles by the flipradio anchor --- **Li HouChen**
 
 [vistopia/我们焦虑于证明自己是个好人，为什么反而更糟糕了？.md](vistopia/我们焦虑于证明自己是个好人，为什么反而更糟糕了.md)
 
+[vistopia/“变化的时代”，相信恐惧，还是相信文明？.md](vistopia/变化的时代，相信恐惧，还是相信文明？.md)
+
+[vistopia/快手广告赢了B站？打破平民主义神话.md](vistopia/快手广告赢了B站？打破平民主义神话.md)
+
+[vistopia/平权文化动摇时，我们能依靠什么？.md](vistopia/平权文化动摇时，我们能依靠什么？.md)
+
 ----
 
 ### **Studywith**
